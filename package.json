@@ -5,8 +5,10 @@
     "license": "MIT",
     "type": "module",
     "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
         "serve": "nodemon app.js",
-        "devStart": "nodemon src/app.js"
+        "devStart": "nodemon src/app.js",
+        "start": "node app.js"
     },
     "keywords": [],
     "dependencies": {
