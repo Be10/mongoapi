@@ -1,0 +1,17 @@
+[
+    {
+        "firstName" : "John",
+        "phone" : 333333333,
+        "address" : "dirección John"
+    },
+    {
+        "firstName" : "Loli",
+        "phone" : 444444444,
+        "address" : "dirección Loli"
+    },
+    {
+        "firstName" : "Ximy",
+        "phone" : 555555555,
+        "address" : "dirección Ximy"
+    }
+]
