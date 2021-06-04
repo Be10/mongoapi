@@ -5,7 +5,7 @@ import store from "./api/models/store.js"
 const app = express()
 // const port = 5500
 
-app.set('port', process.env.PORT || 5500);
+app.set('port', process.env.PORT || 4000);
 
 
 const mongoURL = "mongodb+srv://Alqaedra:QZTKBOYHo0abGxPa@cluster0.ibrhl.mongodb.net/clientes?retryWrites=true&w=majority"
